@@ -17,6 +17,8 @@ i = 1
     movies_arr << {"movie#{i}":film_api}
     i += 1
   end
+      movies_arr
+      binding.pry
 end
 
 
